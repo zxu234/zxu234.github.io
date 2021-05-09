@@ -1,0 +1,195 @@
+@font-face{
+  src:url(/fonts/Kosugi-Regular.ttf);
+  font-family: Kosugi;
+}
+
+@font-face{
+  src: url(/fonts/AbrilFatface-Regular.ttf);
+  font-family: AbrilFatface;
+}
+
+@font-face{
+  src:url(/fonts/FrankRuhlLibre-Medium.ttf);
+  font-family: FrankRuhlLibre;
+}
+
+@font-face{
+  src:url(/fonts/MaShanZheng-Regular.ttf);
+  font-family: MashanZheng;
+}
+
+body{
+  background-image: url(/img/background.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+#Welcome {
+  font-family: FrankRuhlLibre;
+  color: white;
+}
+
+#yokoso{
+  font-family: Kosugi;
+  font-weight: normal;
+  color: white;
+}
+
+
+
+.header {
+  font-family: AbrilFatface;
+  font-weight: normal;
+  font-size: 32pt;
+  text-align: center;
+  line-height: 30px;
+  color: #fff;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+}
+
+.Photo{
+text-align: center;
+padding-bottom: 20px;
+}
+
+.resume{
+  font-family: FrankRuhlLibre;
+  font-style: italic;
+  font-size: 22pt;
+  text-align: center;
+  color:#fff;
+
+}
+
+.resume2{
+  font-family: MashanZheng;
+  font-style: italic;
+  font-size: 22pt;
+  text-align: center;
+  color:#fff;
+
+}
+
+.box{
+  background-color: rgba(135, 183, 245, 0.4);
+  width: 100%;
+  padding-bottom: 80px;
+  padding-top: 40px;
+}
+
+
+.IntroductionEN{
+  font-family: FrankRuhlLibre;
+  font-size: 20pt;
+  color:#fff;
+  line-height: 25px;
+  padding-top: 5px;
+  padding-left: 60px;
+  padding-right: 60px;
+  text-align: center;
+}
+
+.IntroductionJP{
+  font-family: Kosugi;
+  font-size: 20pt;
+  line-height: 25px;
+  color:#fff;
+  padding-left: 60px;
+  padding-right: 60px;
+  text-align: center;
+}
+
+.IntroductionCN{
+  font-family: MaShanZheng;
+  font-size: 20pt;
+  line-height: 25px;
+  color:#fff;
+  padding-left: 60px;
+  padding-right: 60px;
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+
+.work{
+  text-align: center;
+}
+
+#GEOC{
+  font-family: FrankRuhlLibre;
+  font-size: 24pt;
+  color:#240aa6;
+  padding-top: 30px;
+}
+
+.GEO370frame{
+  margin-left: 15%;
+}
+
+.GEO572frame{
+  margin-left: 25%;
+}
+
+.GEO572frame2{
+  margin-left: 25%;
+}
+
+
+.GEO572frame3{
+  margin-left: 25%;
+  background-color: rgba(135, 183, 245, 0.7);
+}
+
+.btn{
+  font-family: AbrilFatface;
+  font-style: italic;
+  font-size: 18pt;
+  color:#071478;
+}
+
+
+.paragraph {
+  font-family: FrankRuhlLibre;
+  font-weight: normal;
+  color:#fff;
+  padding-left: 150px;
+  padding-right: 150px;
+  text-align: center;
+  font-size: 22pt;
+  line-height: 20pt;
+  padding-top: 50px;
+  padding-bottom: 180px;
+}
+
+#paragraphTitle {
+  color: #fff;
+  font-size: 35pt;
+  font-family: AbrilFatface;
+  text-align: center;
+  padding-top: 15px;
+  margin-top: 20px;
+}
+
+
+.bottom{
+  background-color: rgba(135, 183, 245, 0.9);
+  font-family: AbrilFatface;
+  font-size: 24pt;
+  text-align: center;
+  color:#fff;
+  padding-bottom: 40px;
+  width: 100%;
+}
+
+#acknowlegement{
+  color: #fff;
+  font-size: 28pt;
+  font-family: AbrilFatface;
+  text-align: center;
+  padding-top: 15px;
+  margin-top: 5px;
+  width: 100%;
+}
